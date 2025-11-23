@@ -10,7 +10,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/ItsDoge131/Nectarine/tree/master">
-    <img src="C:/Users/Nicho/Downloads/Nectarine.png" alt="Nectarine" width="200">
+    <img src="C:/Users/Nicho/Downloads/Nectarine.png" alt="Nectarine Logo" width="200">
   </a>
   <br>
   <b>Nectarine</b>
@@ -18,28 +18,23 @@
 </h1>
 
 <h4 align="center">
-<b>Nectarine</b> is a modern, open-source Nintendo Switch emulator.  
-It began as a fork of Yuzu but has grown into its own project, focused on clarity, portability, and comfort-first development.  
-We maintain builds for Windows, Linux, and Android, with an emphasis on clean design and accessible workflows.
+<b>Nectarine</b> is an independent, open-source Nintendo Switch emulator.  
+Originally forked from Yuzu, it has evolved into its own project with a focus on simplicity, portability, and a comfort-first workflow.  
+We provide builds for Windows, Linux, and Android, aiming for clean design and accessible development practices.
 </h4>
 
-<p align="center">
-  <a href="#compatibility">Compatibility</a> |
-  <a href="#development">Development</a> |
-  <a href="#building">Building</a> |
-  <a href="#download">Download</a> |
-  <a href="#support">Support</a> |
-  <a href="#license">License</a>
-</p>
+---
 
 ## Compatibility
 
-Nectarine is capable of running many commercial Nintendo Switch titles at playable speeds, provided your hardware meets the requirements.  
-A compatibility list will be published as testing expands.
+Nectarine can run a wide range of commercial Nintendo Switch titles at playable speeds, provided your hardware meets the requirements.  
+A detailed compatibility list will be published as testing expands.
 
-Stay tuned to our [GitHub repository](https://github.com/ItsDoge131/Nectarine/tree/master) for updates, progress reports, and new features.
+Follow progress and updates on our [GitHub repository](https://github.com/ItsDoge131/Nectarine/tree/master).
+
+---
 
 ## License
 
 Nectarine is licensed under the GPLv3 (or any later version).  
-See the [LICENSE.txt](https://github.com/ItsDoge131/Nectarine/blob/master/LICENSE.txt) file for details.
+See the [LICENSE.txt](https://github.com/ItsDoge131/Nectarine/blob/master/LICENSE.txt) file for full details.
